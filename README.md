@@ -1,5 +1,5 @@
 # BSIMM_ru
-Краткий перевод [BSIMM](https://www.bsimm.com)на русский язык
+Краткий перевод [BSIMM](https://www.bsimm.com) на русский язык
 
 ### Термины
 
